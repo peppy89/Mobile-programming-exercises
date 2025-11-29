@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L6_EX</string>
+    <string name="country_finland">Finland</string>
+    <string name="country_japan">Japan</string>
+    <string name="country_brazil">Brazil</string>
+    <string name="country_canada">Canada</string>
+</resources>
